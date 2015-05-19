@@ -8,7 +8,7 @@ RUN echo "deb http://repos.sensuapp.org/apt sensu main" | sudo tee -a /etc/apt/s
 RUN apt-get update
 RUN apt-get install -y uchiwa
 
-COPY run.sh /opt/
+COPY run.sh /opt/run.sh
 
 EXPOSE 3000
 
