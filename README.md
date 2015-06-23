@@ -4,7 +4,7 @@
 
 This image runs the latest [Uchiwa](https://uchiwa.io) on Ubunty Trusty (14.04)
 
-Currently Runs: Uchiwa 0.9
+Currently Runs: Uchiwa 0.9.1
 
 ### Running the image
 
